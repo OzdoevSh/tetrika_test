@@ -1,0 +1,20 @@
+img {
+  width: 50px;
+}
+
+.voicebar{
+  width: 200px;
+  border: 2px solid rgb(0, 0, 0);
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+  margin-top: 18px;
+
+  .voice-level{
+    margin-top: 10px;
+    cursor: pointer;
+  }
+
+}

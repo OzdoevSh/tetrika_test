@@ -1,0 +1,11 @@
+.video{
+  border-radius: 15px;
+  width: 40vw;
+}
+
+@media (max-width: 675px){
+  .video{
+    width: 98%;
+  }
+}
+
